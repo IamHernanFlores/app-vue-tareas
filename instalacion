@@ -1,0 +1,15 @@
+1 Abrir el sistema de codigo
+
+2 Colocar [npm install -g @vue/cli]
+
+3 Nos ubicamos con [cd Carpeta-Vue (por ejemplo)] para crear el proyecto
+
+4 Colocamos dentro de esa direccion [vue create vue-todos] (nombre de la app) 
+
+5 En el sistema de Vue elegimos default 
+
+6 Entrar con [cd a la carpeta del proyecto (vue-todos)] (C:\Users\IamHe\Desktop\Carpeta_Vue\vue-todos>)
+
+7 Finalmente colocamos [npm run serve] para arrancar el proyecto en le navegador (C:\Users\IamHe\Desktop\Carpeta_Vue\vue-todos>npm run serve)
+
+8 Entrar a la direccion (http://localhost:8080/) ejemplo
